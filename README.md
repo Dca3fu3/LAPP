@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/425a3f53-ff6d-4fd7-a818-16c2a8fcaf56)![image](https://github.com/user-attachments/assets/d4b0c880-80f9-44c3-8d50-cf21d57c7ce6)在Ubuntu 24.04上安装LAPP（Linux, Apache, PostgreSQL, PHP）环境的步骤如下：
+在Ubuntu 24.04上安装LAPP（Linux, Apache, PostgreSQL, PHP）环境的步骤如下：
 
 ### 1. 更新系统
 
